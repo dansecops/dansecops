@@ -1,4 +1,4 @@
-### DevSecOps | OWASP | Multi and Hybrid Cloud | Cloud and Application Security Automation
+### DevSecOps | OWASP | Multi and Hybrid Cloud | Cloud and Application Security
 
 <!--
 **dansecops/dansecops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
